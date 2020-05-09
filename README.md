@@ -15,7 +15,7 @@ ggwaffle is designed to work in a very similar way to the original [waffle packa
 Currently only available through github: 
 ```r
 # install.packages("devtools")
-devtools::install_github("liamgilbey/ggwaffle")
+devtools::install_github("hathawayj/ggwaffle")
 ```
 
 ## Usage
